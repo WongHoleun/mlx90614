@@ -1,0 +1,10 @@
+../hardware/MLX90614.c:29:24:MLX90614_RAM_Read	40	static
+../hardware/MLX90614.c:58:24:MLX90614_EEPROM_Read	40	static
+../hardware/MLX90614.c:86:9:CRC_8	24	static
+../hardware/MLX90614.c:118:24:MLX90614_Write_Data	48	static
+../hardware/MLX90614.c:156:24:MLX90614_Write_EEPROM	24	static
+../hardware/MLX90614.c:208:5:MLX90614_Kelvin_Celsius	24	static
+../hardware/MLX90614.c:227:5:Mlx90614_measure_temperature	16	static
+../hardware/MLX90614.c:251:24:MLX90614_Emissivity_Set	24	static
+../hardware/MLX90614.c:293:24:MLX90614_SMBusAddress_Set	24	static
+../hardware/MLX90614.c:319:24:MLX90614_Init	16	static
